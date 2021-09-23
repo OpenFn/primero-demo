@@ -1,3 +1,71 @@
 {
-  "a": 1
-}
+    "id": "15cdf957-e21c-46ed-b499-6ea1e00c8214",
+    "enabled": true,
+    "age": 12,
+    "sex": "male",
+    "name": "Hassan Sadik",
+    "status": "open",
+    "case_id": "2805f1bd-c47c-4b33-9554-70581e2ad78a",
+    "owned_by": "primero_cp",
+    "short_id": "00c8214",
+    "workflow": "service_provision",
+    "estimated": false,
+    "module_id": "primeromodule-cp",
+    "name_last": "Sadik",
+    "created_at": "2021-07-22T16:17:27.965Z",
+    "created_by": "primero_cp",
+    "name_first": "Hassan",
+    "bia_approved": false,
+    "record_state": true,
+    "date_of_birth": "2009-01-01",
+    "notes_section": [],
+    "reopened_logs": [],
+    "case_id_display": "00c8214",
+    "last_updated_at": "2021-09-23T11:25:37.233Z",
+    "owned_by_groups": [
+      "usergroup-primero-cp"
+    ],
+    "closure_approved": false,
+    "services_section": [
+      {
+        "unique_id": "44bb2288-fe13-4d80-9713-ae3decaf2a46",
+        "service_type": "cash_assistance",
+        "service_implemented": "not_implemented",
+        "service_response_type": "service_provision",
+        "referral_follow_up_medium": [],
+        "service_response_day_time": "2021-09-23T11:23:09.000Z"
+      }
+    ],
+    "consent_reporting": "true",
+    "marked_for_mobile": false,
+    "registration_date": "2021-07-22",
+    "case_plan_approved": false,
+    "owned_by_agency_id": "UNICEF",
+    "consent_for_tracing": "true",
+    "identification_date": "2021-07-22",
+    "protection_concerns": [
+      "neglect",
+      "rape"
+    ],
+    "unhcr_export_opt_in": false,
+    "case_status_reopened": false,
+    "consent_for_services": true,
+    "created_organization": "UNICEF",
+    "associated_user_names": [
+      "primero_cp"
+    ],
+    "disclosure_other_orgs": true,
+    "child_feedback_consent": false,
+    "approval_obtained_child": false,
+    "caregiver_feedback_consent": false,
+    "approval_obtained_caregiver": false,
+    "consent_for_data_collection": "true",
+    "child_feedback_consent_caregiver": false,
+    "record_in_scope": true,
+    "flag_count": 0,
+    "alert_count": 0,
+    "photo": null,
+    "photos": [],
+    "recorded_audio": [],
+    "upload_other_document": []
+  }
