@@ -1,6 +1,6 @@
 # Primero Demo
 
-Repository for demo OpenFn integrations between Primero and other information systems. 
+Repository for demo OpenFn integrations between open-source Primero case management system and other information systems. 
 
 Questions? Contact support@openfn.org. 
 
