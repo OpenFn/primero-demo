@@ -1,7 +1,11 @@
-fn(state => {
-  console.log(state.data);
-  return state;
-});
+// filter to only show those cases updated today to demo custom JS...
+// fn(state => {
+//   const changedCases = state.data.filter(c => {
+//     return c.updated_at >= Date.now();
+//   })
+  
+//   return state;
+// });
 
 upsertMany(
   'cases', // the DB table
